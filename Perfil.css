@@ -1,0 +1,107 @@
+.contenedor-perfil{
+  background-color: rgb(255, 226, 172);
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .imagen-perfil{
+    height: 100%;
+    width: auto;
+  }
+  
+  .contenedor-texto-perfil{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+  }
+  
+  .nombre-perfil{
+    font-size: 1 rem;
+  }
+  
+  .cargo-perfil{
+    font-size: 1 rem;
+  }
+  
+  .texto-perfil{
+    font-size: 1 rem;
+   }
+   button{
+    background-color: rgb(222, 156, 255);
+    border: none;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   }
+   
+   .contenedor-perfilB{
+    background-color: orange;
+      width: 1000px;
+      height: 300px;
+      display: flex;
+    }
+    
+    .imagen-perfilB{
+      height: 100%;
+      width: auto;
+    }
+    
+    .contenedor-texto-perfilB{
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      line-height: 1.5rem;
+    }
+    
+    .nombre-perfilB{
+      font-size: 1 rem;
+    }
+    
+    .cargo-perfilB{
+      font-size: 1 rem;
+    }
+    
+    .texto-perfilB{
+      font-size: 1 rem;
+     }
+    
+     
+     .contenedor-perfilC{
+      background-color: orange;
+        width: 1000px;
+        height: 300px;
+        display: flex;
+      }
+      
+      .imagen-perfilC{
+        height: 100%;
+        width: auto;
+      }
+      
+      .contenedor-texto-perfilC{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        line-height: 1.5rem;
+      }
+      
+      .nombre-perfilC{
+        font-size: 1 rem;
+      }
+      
+      .cargo-perfilC{
+        font-size: 1 rem;
+      }
+      
+      .texto-perfilC{
+        font-size: 1 rem;
+       }
+      
